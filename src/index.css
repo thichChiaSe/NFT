@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+.NoPadding {
+  margin: 0px;
+  padding: 0px;
+}
+
+@media print {
+  header,
+  header * {
+    display: none;
+  }
+  .MuiToolbar-root,
+  .MuiToolbar-root * {
+    display: none;
+  }
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionFixed.makeStyles-appBar-13.noPrint.mui-fixed.css-1hc7nu0-MuiPaper-root-MuiAppBar-root {
+    display: none !important;
+  }
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionFixed.jss13.noPrint.mui-fixed.css-1ozpllr {
+    display: none !important;
+  }
+  .MuiDrawer-root.MuiDrawer-docked.jss3.css-1tu59u4 {
+    display: none;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-s43fis {
+    display: none;
+  }
+  .jss15 {
+    display: none;
+  }
+  .noPrint {
+    display: none;
+  }
+  .MuiDrawer-root.MuiDrawer-docked.makeStyles-drawer-3.css-7ik032-MuiDrawer-docked {
+    display: none;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters *,
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root *,
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+    display: none;
+  }
+  .makeStyles-language-15 {
+    display: none;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+    display: none;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
+    display: none;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-1g467ij-MuiToolbar-root {
+    display: none;
+  }
+  .toPhieu {
+    margin-top: -40px !important;
+  }
+  .MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-i6s8oy {
+    display: none;
+  }
+}
